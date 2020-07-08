@@ -1,0 +1,135 @@
+# pylons_e050n20_e051n25_3792113
+# do not edit below this line
+# Last Written Wed Jul  8 00:58:12 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50095 25.80126 15.68 421.546
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50582 25.80763 9.53 421.978
+# END pylons_e050n20_e051n25_3792113
+# pylons_e050n20_e051n25_3792114
+# do not edit below this line
+# Last Written Wed Jul  8 02:13:23 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50095 25.80126 15.68 421.742
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50297 25.80466 17.49 421.954
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50495 25.80805 13.43 422.028
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50694 25.81142 12.18 421.594
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50898 25.81480 17.08 434.989
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50908 25.81869 9.55 448.38
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50921 25.82235 12.00 448.164
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50933 25.82582 11.65 448.263
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50945 25.82951 9.83 448.115
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50959 25.83309 11.34 448.214
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50970 25.83670 9.35 448.418
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50982 25.84049 8.68 448.322
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50994 25.84413 9.55 448.176
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51008 25.84791 5.52 448.096
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51022 25.85163 4.63 448.369
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51031 25.85527 4.77 448.329
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51045 25.85902 4.85 448.282
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51056 25.86277 5.03 435.182
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51253 25.86611 4.05 421.949
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51449 25.86945 3.89 422.036
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51646 25.87280 5.51 422.142
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51677 25.87437 0.93 242.827
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51494 25.87115 1.55 242.399
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51310 25.86802 0.72 241.871
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51131 25.86500 1.86 241.711
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50985 25.86255 3.80 255.046
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50979 25.86048 1.00 268.519
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50971 25.85777 4.32 268.291
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50961 25.85515 3.14 268.138
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50949 25.85139 4.14 268.376
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50938 25.84760 6.75 268.234
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50924 25.84393 6.30 268.25
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50913 25.84028 8.92 268.33
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50900 25.83669 8.73 268.183
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50887 25.83303 10.76 268.2
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50876 25.82958 8.51 268.321
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50865 25.82597 10.06 268.138
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50850 25.82235 8.78 268.299
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50841 25.81872 10.09 268.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50827 25.81502 13.78 254.955
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50638 25.81182 12.10 241.813
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50437 25.80842 14.37 242.066
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50243 25.80507 17.73 242.103
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50038 25.80160 14.65 241.637
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51773 25.87364 3.49 242.057
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51609 25.87084 5.65 242.177
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51448 25.86807 5.00 242.067
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51284 25.86530 5.81 242.062
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51125 25.86256 2.95 255.28
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51114 25.85933 4.62 268.167
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51102 25.85616 3.77 268.183
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51092 25.85287 4.33 268.323
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51081 25.84970 4.73 268.329
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51071 25.84656 1.94 268.171
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51059 25.84330 5.92 268.058
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51047 25.84007 6.40 268.35
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51039 25.83692 7.63 268.439
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51028 25.83370 9.66 268.222
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51017 25.83058 8.91 268.262
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51007 25.82740 11.77 268.292
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50996 25.82423 10.90 268.282
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50986 25.82109 12.00 268.192
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50974 25.81782 10.99 268.147
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50963 25.81463 14.58 254.941
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50800 25.81190 11.68 242
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50629 25.80894 11.45 242.206
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50463 25.80612 13.02 241.958
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50301 25.80337 16.37 241.805
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50128 25.80045 17.48 241.561
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50582 25.80763 9.53 421.842
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50782 25.81100 9.55 421.822
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50995 25.81461 11.46 434.907
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51011 25.81871 10.93 448.223
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51022 25.82232 8.68 448.545
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51031 25.82582 10.28 448.485
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51043 25.82954 10.10 448.233
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51056 25.83310 8.33 448.103
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51069 25.83665 8.01 448.251
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51080 25.84049 4.81 448.484
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51090 25.84388 3.54 448.317
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51105 25.84787 3.09 448.092
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51119 25.85161 4.58 448.249
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51129 25.85520 4.70 449.288
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51128 25.85897 4.98 269.609
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51131 25.86063 2.73 441.526
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51241 25.86408 3.14 427.252
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51341 25.86568 3.56 421.309
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51536 25.86903 2.29 421.928
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51735 25.87237 4.26 422.202
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51777 25.87214 3.38 241.872
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51579 25.86878 1.23 241.874
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51383 25.86546 1.01 241.15
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51287 25.86393 3.82 245.723
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51161 25.86062 3.89 262.171
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51172 25.85897 4.77 272.266
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51180 25.85522 5.01 269.749
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51168 25.85159 3.93 268.375
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51157 25.84784 4.45 268.255
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51142 25.84387 4.55 268.1
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51130 25.84050 3.77 268.11
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51116 25.83660 6.83 268.367
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51107 25.83310 5.88 268.408
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51094 25.82951 10.96 268.15
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51081 25.82579 9.13 268.236
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51069 25.82228 9.58 268.283
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51057 25.81870 10.51 268.192
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51042 25.81449 9.42 254.996
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50821 25.81076 8.14 241.907
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50625 25.80742 9.69 242.032
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.50006 25.79684 12.07 241.904
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792114cables00003.ac 51.50046 25.79895 14.78 90
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792114cables00004.ac 51.50532 25.80960 12.94 90
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792114cables00005.ac 51.50978 25.82960 8.40 90
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792114cables00006.ac 51.51040 25.84781 5.74 90
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792114cables00007.ac 51.51449 25.86568 3.27 90
+# END pylons_e050n20_e051n25_3792114
+# pylons_e050n20_e051n25_3792122
+# do not edit below this line
+# Last Written Wed Jul  8 02:17:16 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51677 25.87437 0.93 242.161
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51773 25.87364 3.49 241.777
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.51777 25.87214 3.38 242.139
+# END pylons_e050n20_e051n25_3792122

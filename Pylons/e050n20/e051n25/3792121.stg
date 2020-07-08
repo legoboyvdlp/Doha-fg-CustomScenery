@@ -1,0 +1,54 @@
+# pylons_e050n20_e051n25_3792120
+# do not edit below this line
+# Last Written Tue Jul  7 22:30:52 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25199 25.88565 18.82 306.714
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25001 25.88720 19.64 306.835
+# END pylons_e050n20_e051n25_3792120
+# pylons_e050n20_e051n25_3792113
+# do not edit below this line
+# Last Written Wed Jul  8 00:58:12 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25904 25.87670 15.25 126.65
+# END pylons_e050n20_e051n25_3792113
+# pylons_e050n20_e051n25_3792121
+# do not edit below this line
+# Last Written Wed Jul  8 01:10:05 2020
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25199 25.88565 18.82 306.37
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25398 25.88322 15.09 319.091
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25622 25.88213 15.07 331.805
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25845 25.88105 14.27 306.867
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25896 25.87886 16.00 281.564
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25945 25.87661 15.46 294.143
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25904 25.87670 15.25 126.846
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25743 25.87864 16.00 126.711
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25561 25.88086 14.71 126.907
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25376 25.88307 15.17 126.897
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25204 25.88516 19.10 126.621
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25017 25.88742 19.91 126.809
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25001 25.88720 19.64 306.561
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25182 25.88499 18.57 306.645
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25337 25.88311 15.68 319.279
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25557 25.88204 15.37 332.035
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25811 25.88083 14.31 306.347
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25858 25.87853 15.41 280.713
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 51.25908 25.87622 14.70 293.821
+OBJECT_BUILDING_MESH_DETAILED e050n20_e051n25_3792121cables00001.ac 51.25494 25.88187 16.91 90
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49280 25.92038 4.10 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49263 25.92046 4.14 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49243 25.92055 4.21 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49227 25.92063 4.21 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49299 25.92028 4.04 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.ac 51.49393 25.92038 2.62 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.ac 51.49442 25.92013 3.04 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49374 25.92006 3.36 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49314 25.92021 3.95 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49392 25.91997 3.25 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.ac 51.49417 25.92025 2.83 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.ac 51.49371 25.92049 2.43 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49389 25.92072 2.37 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.ac 51.49318 25.92077 2.53 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel30m.ac 51.49380 25.91932 2.71 0
+OBJECT_SHARED Models/Industrial/GenericPressureVessel30m.ac 51.49339 25.91951 3.52 0
+# END pylons_e050n20_e051n25_3792121
